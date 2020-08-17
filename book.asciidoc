@@ -1,8 +1,4 @@
-:bookseries: animal
-
 = Mastering Bitcoin
-
-include::praise.asciidoc[]
 
 include::preface.asciidoc[]
 
@@ -28,16 +24,22 @@ include::ch09.asciidoc[]
 
 include::ch10.asciidoc[]
 
+include::ch11.asciidoc[]
+
+include::ch12.asciidoc[]
+
 include::appdx-bitcoinwhitepaper.asciidoc[]
 
 include::appdx-scriptops.asciidoc[]
 
 include::appdx-bips.asciidoc[]
 
+include::appdx-bitcore.asciidoc[]
+
 include::appdx-pycoin.asciidoc[]
 
 include::appdx-bx.asciidoc[]
 
-include::index.asciidoc[]
+include::ix.html[]
 
-include::colo.asciidoc[]
+include::colo.html[]
